@@ -1,4 +1,5 @@
 ## For development purposes only!
+
 The API used in the project belongs to The Movie Database (TMDB).
 
 ## Folder Structure
