@@ -15,8 +15,7 @@ The API used in the project belongs to The Movie Database (TMDB).
 └── main.js # Project entry point
 ```
 
-<!-- ###
-  Additional note:
+## Additional note:
 
   -About Page - Category Page
   -Responsive Design
