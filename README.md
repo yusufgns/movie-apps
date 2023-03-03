@@ -8,10 +8,8 @@ The API used in the project belongs to The Movie Database (TMDB).
 ├── src/
 │   ├── components # Reusable components
 │   ├── router  # Vue Router configuration
+│   ├── store # Fetch API
 │   └── page # Pages
-│
-│          ├── store # Fetch API
-│          └── router # router
 └── main.js # Project entry point
 ```
 
