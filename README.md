@@ -15,6 +15,6 @@ The API used in the project belongs to The Movie Database (TMDB).
 
 ## Additional note:
 
-  -About Page - Category Page
-  
-  -Responsive Design
+  - About Page 
+  - Category Page
+  - Responsive Design
